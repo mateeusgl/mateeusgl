@@ -34,7 +34,7 @@
 
 <br><br>
 
-## 🏽‍🦲 &nbsp;Social Links
+## Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/mateeusgl" target="_blank">
