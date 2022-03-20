@@ -31,7 +31,7 @@
   <img align="center" src="https://img.shields.io/badge/-mateeusgl-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
   
-<!---
+
 <a href="https://linkedin.com/in/mateeusgl" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mateeusgl-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -40,6 +40,7 @@
 </a>
 </p>
 
+<!---
 mateeusgl/mateeusgl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
