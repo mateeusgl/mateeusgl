@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateeusgl&color=yellow" alt="Profile views" /> </p>
 
-- 👨🏻‍💻 Jr Web Developer & Student focused on front-end;
+- 👨🏻‍💻 Jr Web Developer & Student focused on front-end
 
-- 🔭 I’m currently studying at [Rocketseat](https://app.rocketseat.com.br/me/mateeusgl);
+- 🔭 I’m currently studying at [Rocketseat](https://app.rocketseat.com.br/me/mateeusgl)
 
 - 💬 I can you help about: JS, HTML, CSS, GIT, Github 
 
