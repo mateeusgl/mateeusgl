@@ -9,7 +9,7 @@
 
 <!--- - 🌃 I'm will start post videos on [youtube.com/mateeusgl](https://www.youtube.com/channel/UCe7Fc0xg2HZ7hrR23UkbBsw) -->
 
-- 🧑🏻‍💻 Let's go codar together
+- 🧑🏻‍💻 Let's go "codar" together
 
 <br>
 
