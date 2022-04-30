@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateeusgl&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Jr Web Developer & Student focused on front-end 
+- 🔥 Jr Web Developer & Student focused on front-end;
 
-- 🔭 I’m currently studying at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently studying at [Rocketseat](https://app.rocketseat.com.br/me/mateeusgl) and Systems Analysis;
 
-- 🌃 I like to code at dawn
+- 🌃 I'm will start post videos on [youtube.com/mateeusgl](https://www.youtube.com/channel/UCe7Fc0xg2HZ7hrR23UkbBsw)
 
 - 🧑🏻‍💻 Let's go codar together
 
@@ -32,10 +32,10 @@
   <img align="center" src="https://img.shields.io/badge/-mateeusgl-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
   
-
 <a href="https://linkedin.com/in/mateeusgl" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mateeusgl-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+  
 <a href="https://instagram.com/mateeusgl" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mateeusgl-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
