@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="0px">, I'm Matheus Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateeusgl&color=yellow" alt="Profile views" /> </p>
 
-[mateeuslopes.me](https://www.mateeuslopes.me)
+- 👨‍💻 All of my projects are available at [mateeuslopes.me](https://www.mateeuslopes.me)
 
 - 👨🏻‍💻 Jr Web Developer & Student focused on front-end 
 
