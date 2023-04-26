@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [mateeuslopes.me](https://www.mateeuslopes.me)
 
-- 👨🏻‍💻 Jr Web Developer & Student focused on front-end 
+- 👨🏻‍💻 Mid Web Developer & Student focused on front-end 
 
 - 🔭 I’m currently studying at [Rocketseat](https://app.rocketseat.com.br/me/mateeusgl)
 
